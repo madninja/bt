@@ -1,0 +1,4 @@
+[{<<"dthread">>,
+  {git,"https://github.com/tonyrog/dthread.git",
+       {ref,"d763748f1d2af31762682772e28e412906b8fef5"}},
+  0}].
